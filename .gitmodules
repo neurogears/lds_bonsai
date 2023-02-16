@@ -1,0 +1,3 @@
+[submodule "modules/lds_python"]
+	path = modules/lds_python
+	url = https://github.com/joacorapela/lds_python.git
