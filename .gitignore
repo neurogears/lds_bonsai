@@ -1,0 +1,6 @@
+bin
+obj
+pyenv
+*.exe
+*.exe.settings
+Packages
